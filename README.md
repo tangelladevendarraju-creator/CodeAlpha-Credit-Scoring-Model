@@ -26,4 +26,4 @@ Accuracy: 93.03%
 - README.md
 
 ## Output
-The model predicts whether a customer is eligible for credit based on input features.
+The model predicts whether a customer is eligible for credit based on input features. 
